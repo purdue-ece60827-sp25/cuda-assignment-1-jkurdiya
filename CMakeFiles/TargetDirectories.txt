@@ -1,0 +1,7 @@
+/home/jkurdiya/cuda-assignment-1-jkurdiya/CMakeFiles/lab1.dir
+/home/jkurdiya/cuda-assignment-1-jkurdiya/CMakeFiles/edit_cache.dir
+/home/jkurdiya/cuda-assignment-1-jkurdiya/CMakeFiles/rebuild_cache.dir
+/home/jkurdiya/cuda-assignment-1-jkurdiya/src/CMakeFiles/cudaLib.dir
+/home/jkurdiya/cuda-assignment-1-jkurdiya/src/CMakeFiles/cpuLib.dir
+/home/jkurdiya/cuda-assignment-1-jkurdiya/src/CMakeFiles/edit_cache.dir
+/home/jkurdiya/cuda-assignment-1-jkurdiya/src/CMakeFiles/rebuild_cache.dir
